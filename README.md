@@ -1,10 +1,3 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
 # About me
 Hello! I am Julia, and I am currently majoring in Information Systems with a minor in Human Computer Interaction. I am interested in the entire software development lifecycle, including UI/UX design, web development, and testing. More generally, I am interested in a user-centered approach towards technology, and therefore I am intrigued by how visualizations can be designed so that a story based on data is presented to the audience in an engaging and clear manner.
 
@@ -25,3 +18,9 @@ Hello! I am Julia, and I am currently majoring in Information Systems with a min
 - [Part I](final-project-part-one)
 - [Part II](final-project-part-two)
 - [Part III](final-project-part-three)
+
+---
+
+# Important URLs
+- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
