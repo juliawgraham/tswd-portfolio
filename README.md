@@ -9,7 +9,7 @@ Hello! I am Julia, and I am currently majoring in Information Systems with a min
 # Portfolio
 
 ## Assignment 2
-- [Visualizing government Debt](visualizing-government-debt)
+- [Visualizing Government Debt](visualizing-government-debt)
 
 ## Assignment 3 & 4
 - [Critique by Design](critique-by-design)  
