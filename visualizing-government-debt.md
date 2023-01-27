@@ -27,7 +27,3 @@ Each of the 3 visualizions have their benefits and drawbacks. For the bar chart,
 For the grid of charts, the primary advantage is the ability to show how the debt-to-GDP ratio changes over time for the various countries. The dark red color provides color without drawing much attention. If these charts were all on the same chart, it would be easier to compare two countries; however, there would likely be so much overlap that it would be difficult to analyze one particular country as can be done with the grid of charts visualiaztion.
 
 Finally, for the map, the geographical context is provided. Similarly to the bar chart, the debt-to-GDP ratio can't be adequately shown over time; therefore, only the 2021 data is used again. However, unlike the bar chart, discerning the exact differences in color (especially for countries that are far apart) to be able to compare countries with similar ratios is difficult. The advantage this graph provides though is geographical context so, as shown in this chart, it is a lot easiser to see the relatively low ratio in eastern Europe and how that starkly contrasts with Greece.  
-
-
-
-*Finally, use Markdown to write a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.* 
