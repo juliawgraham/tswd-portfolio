@@ -12,3 +12,6 @@
 
 ## Debt-to-GDP Ratio Around the World Over Time
 <div class="flourish-embed flourish-chart" data-src="visualisation/12571887"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Debt-to-GDP Ratio in 2021
+<div class="flourish-embed flourish-map" data-src="visualisation/12571984"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
