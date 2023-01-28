@@ -21,6 +21,6 @@ Hello! I am Julia, and I am currently majoring in Information Systems with a min
 
 ---
 
-# Important URLs
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+# Important Links
+- Web page: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
