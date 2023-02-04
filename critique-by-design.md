@@ -11,35 +11,35 @@ The following visualization shows the user testing results performed by Wu et al
 
 ## Critique
 
-### Usefulness. *Is it useful for the intended audience? Does it communicate valuable information?*
+### Usefulness
 --
 
-### Completeness. Does the visualization have everything necessary to make it understandable?
+### Completeness
 --
 
-### Perceptibility. Can the reader understand the information with minimal effort? Is the visualization type appropriate? Does it use illogical comparisons?
+### Perceptibility
 --
 
-### Truthfulness. Is the visualization accurate, reliable and valid? Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisions that aren't correct?
+### Truthfulness
 --
 
-### Intuitiveness. Is it easy to understand and clearly communicates the information? If unfamiliar, does it include easy to understand instructions on how to interpret it?
+### Intuitiveness
 --
 
-### Aesthetics. It is interesting / enjoyable to look at?  Is it a good example of what a beautiful data visualization might look like? Is it somewhere in the middle - pleasing but otherwise not distracting to look at?
+### Aesthetics
 --
 
-### Aesthetics. It is interesting / enjoyable to look at?  Is it a good example of what a beautiful data visualization might look like? Is it somewhere in the middle - pleasing but otherwise not distracting to look at?
+### Aesthetics
 --
 
-### Engagement. Does it lead the audience to learn more about the topic? Does it inspire the audience to talk about the data or share it with others?
+### Engagement
 --
 
-### Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?  
+### Overall Observations 
 --
 
-### Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?
+### Primary Audience
 --
 
-### Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)
+### Final Thoughts
 --
