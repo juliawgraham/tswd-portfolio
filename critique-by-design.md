@@ -12,28 +12,25 @@ The following visualization shows the user testing results performed by Wu et al
 ## Critique
 
 ### Usefulness
---
+**10**. Overall, this data visualization is very useful. Since this is a part of a research paper, the primary use of this table is for the authors to be able to back up their claims with concrete numbers. As mentioned in the paper, "This table reveals that comprehension of the purpose of the authentication ceremony and of the significance of matching and non-matching numbers visibly improved with our redesign." Therefore, by showing how more users recieved correct answers for their redesign when compared to Signal, this table adequately accomplishes the author's goals.
 
 ### Completeness
---
+**8**
 
 ### Perceptibility
---
+**2**
 
 ### Truthfulness
---
+**10**
 
 ### Intuitiveness
---
+**7**
 
 ### Aesthetics
---
-
-### Aesthetics
---
+**4**
 
 ### Engagement
---
+**2**
 
 ### Overall Observations 
 --
