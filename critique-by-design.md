@@ -21,7 +21,7 @@ On the other hand, many readers simply skim through a research paper to quickly 
 
 
 ### Perceptibility
-**2**
+**3**. In general, this data visualization requires the readers to compare small numbers to understand the overall takeaway that the authors' redesign resulted in more correct answers. However, some effective choices made were showing the original Signal data in the left column and the redesign in the right column. Not only does this clearly seperate the two types of data, but it also somewhat aligns with the general notion of time advancing towards the right. Furthermore, correct, partically correct, and incorrect are color coded with the appropriate green, yellow, and red colors accordingly. Despite this, actually decoding which warning design is better requires the reader to look at the relatively small, bolded numbers/percentages and compare the two values not only between the two designs, but also between the three questions, which this design makes relatively difficult.
 
 ### Truthfulness
 **9** why 26 total for matching signal??
