@@ -24,16 +24,16 @@ On the other hand, many readers simply skim through a research paper to quickly 
 **3**. In general, this data visualization requires the readers to compare small numbers to understand the overall takeaway that the authors' redesign resulted in more correct answers. However, some effective choices made were showing the original Signal data in the left column and the redesign in the right column. Not only does this clearly seperate the two types of data, but it also somewhat aligns with the general notion of time advancing towards the right. Furthermore, correct, partically correct, and incorrect are color coded with the appropriate green, yellow, and red colors accordingly. Despite this, actually decoding which warning design is better requires the reader to look at the relatively small, bolded numbers/percentages and compare the two values not only between the two designs, but also between the three questions, which this design makes relatively difficult.
 
 ### Truthfulness
-**9** why 26 total for matching signal??
+**9**. Overall, this data visualization is accurate and valid. The only slight confusion is that while it seems as though there were 25 paricipants answering questions for the original Signal design and 16 for the redesign, it is unclear and unclarified in the paper why the total number of partically correct responses for the matching question for Signal is 26. 
 
 ### Intuitiveness
-**7**
+**7**. A table is a very familar, simple, and intuitive data visualization. However, as mentioned earlier, it is a unclear that the three section correspond to three different research questions and the user's responses to each.
 
 ### Aesthetics
-**4**
+**3**. There is nothing special or particularly aesthetic about this design. While the colors do add to the visualization, a table is a very plain and simple way to display data.
 
 ### Engagement
-**2**
+**4**. Similarly to aesthetics, there is nothing particularly engaging about a table of words and numbers. While there is not much that distracts from the data, the table's primary purpose seems to be to show the data rather than engage the reader in any meaningful manner. 
 
 ### Overall Observations 
 --
