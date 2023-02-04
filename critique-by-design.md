@@ -3,4 +3,5 @@
 # Critique by Design
 
 ## What visualization are you ranking? Provide the title and web-accessible URL.
-![Table](resources/Signal_Table_Data_Visualization.png)
+<!-- ![Table](resources/Signal_Table_Data_Visualization.png) -->
+<img src="resources/Signal_Table_Data_Visualization.png" alt="Table" width="300"/>
