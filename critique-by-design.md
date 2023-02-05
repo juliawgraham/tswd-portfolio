@@ -41,13 +41,9 @@ Overall, this data visualization adequately showcases the data that the authors 
 However, the key aspect of this data visualization that can be improved is the presentation of the data. The key data points are in small numbers that are very difficult to compare, both between the designs and between questions. If I were to do something differently, I would create a visualization that would allow for easier comparisons of the data through the use of, for example, bar charts or scatter plots. This would not only lower the reader's cognitive load, but it would also allow them to quickly verify that the message articulated in the paper is in fact supported by the data. 
 
 ### Primary Audience
-The primary audience 
+The primary audience includes anyone who chooses to read this paper, including academics and students. More specifically, this paper is a part of the Symposium on Usable Privacy and Security (SOUPS), so most readers would have knowledge of privacy and security or would like to learn more about the topic. For this audience, this data visualization adequately showcases the data that the authors collected. Furthermore, the primary takeaway that the authors wanted to convey, that being that their redesign increased user understanding of the authenitcation ceremony using Signal, is directly stated in the paper itself so the table is simply a way to show the data collected that backs up this claim. This conclusion that the table is only truly effective for those want the raw data is supported by the fact that it is quite difficult to verify the author's claim and compare the small numbers that count the number of participants in each category.
 
-
-
-Overall, this data visualization adequately showcases the data that the authors of this paper collected during the user studies conducted. Furthermore, the primary takeaway that the authors wanted to convey, that being that their redesign increased user understanding of the authenitcation ceremony using Signal, is directly stated in the paper itself so the table is simply a way to show the data collected that backs up this claim. However, to verify the author's claim, it is quite difficult to compare the small numbers that count the number of partcipants that answered each question correctly, partially correctly, or incorrectly. 
-
-Furthermore, many individuals don't read each paper in detail. Instead, many focus on the abstract, conclusion, and the visualizations to gain a basic understanding of the research conducted and conclusions reached in order to decide if reading the entire paper is worthwhile. In those cases, s   
+However, many individuals don't read each paper in detail. Instead, many focus on the abstract, conclusion, and the visualizations to gain a basic understanding of the research conducted and conclusions reached in order to decide if reading the entire paper is worthwhile. In those cases, this visualization is not as effective since the data points are difficult to compare and the meaning behind 'Auth. cerem.,' 'Matching,' and 'Non-matching' is unclear without having read the entire paper. 
 
 
 ### Final Thoughts
