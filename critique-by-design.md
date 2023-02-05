@@ -47,4 +47,9 @@ However, many individuals don't read each paper in detail. Instead, many focus o
 
 
 ### Final Thoughts
---
+Overall, this method for evaluating data visualizations seems quite effetive. In particular, it allows for specifically quantifing how the data visualization succeeds and struggles on a variety of parameters. Instead of generically stating that something was 'good' or 'bad,' this method allows for further granularity. For example, this method highlights how this visualization succeeded in metrics such as usefulness and truthfulness but not aesthetics or engagement. Therefore, when it comes to redesigning, it can perhaps be easier to find which areas need improvement.
+
+However, the Good Charts method helped to go from general ideas to specific observations. By starting with what was seen first then moving to likes/dislikes before finally identifying things to change, it was easier to formulate more specific thoughts overtime instead of having to truly understand the positive/negatives of a chart at first glance. Therefore, what may be a helpful approach is a blend of the two. The critique could begin with the Good Charts method in order to gain a better understanding of the visualization and once this understanding is attained, then the conclusions can be categorized based on the above method.  
+
+
+In conclusion, my primary recommendation for this chart would be to allow for meaningful comparisons between data points through the use of, for example, bar charts or scatter plots. Furthermore, the labels could be more descriptive to help readers understand this chart without having to read and understand the entire paper.
