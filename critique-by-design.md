@@ -36,10 +36,19 @@ On the other hand, many readers simply skim through a research paper to quickly 
 **Score: 4**. Similarly to aesthetics, there is nothing particularly engaging about a table of words and numbers. While there is not much that distracts from the data, the table's primary purpose seems to be to show the data rather than engage the reader in any meaningful manner. 
 
 ### Overall Observations 
---
+Overall, this data visualization adequately showcases the data that the authors of this paper collected during the user studies conducted. Besides including all of the user's individual, complete responses, which would have likely been an overwhelming amount of data, the authors included all data that may be wanted. Furthermore, the overall design of the table is relatively well done, with clean columns and appropriately color-coded rows. 
+
+However, the key aspect of this data visualization that can be improved is the presentation of the data. The key data points are in small numbers that are very difficult to compare, both between the designs and between questions. If I were to do something differently, I would create a visualization that would allow for easier comparisons of the data through the use of, for example, bar charts or scatter plots. This would not only lower the reader's cognitive load, but it would also allow them to quickly verify that the message articulated in the paper is in fact supported by the data. 
 
 ### Primary Audience
---
+The primary audience 
+
+
+
+Overall, this data visualization adequately showcases the data that the authors of this paper collected during the user studies conducted. Furthermore, the primary takeaway that the authors wanted to convey, that being that their redesign increased user understanding of the authenitcation ceremony using Signal, is directly stated in the paper itself so the table is simply a way to show the data collected that backs up this claim. However, to verify the author's claim, it is quite difficult to compare the small numbers that count the number of partcipants that answered each question correctly, partially correctly, or incorrectly. 
+
+Furthermore, many individuals don't read each paper in detail. Instead, many focus on the abstract, conclusion, and the visualizations to gain a basic understanding of the research conducted and conclusions reached in order to decide if reading the entire paper is worthwhile. In those cases, s   
+
 
 ### Final Thoughts
 --
