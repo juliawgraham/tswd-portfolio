@@ -85,7 +85,7 @@ Some design changes that may make sense include adding percentages for all categ
 - Seems like a visualization focused on comparing the two designs
 - Found labeling the chart with questions as a bit strange 
 - Suggested putting percentages for all bars, but lighter for the partially correct/incorrect responses
-- Also suggested relabeling 'Answers: ' to 'Accuracy of understanding' to clarify the data, especially the meaning of the percentages
+- Also suggested relabeling 'Answers: ' to 'Accuracy of Understanding: ' to clarify the data, especially the meaning of the percentages
 - When shown the original table after, their first thought was that it was very confusing and unpleasant to look at
 - Found it very difficult to compare the data and while they wanted to use the sizes of the various rows to help with the comparison, they soon realized that the sizes were variable only because of the number of categories within the section 
 
