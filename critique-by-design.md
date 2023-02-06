@@ -58,7 +58,8 @@ In conclusion, my primary recommendation for this chart would be to allow for me
 
 <img src="resources/Redesign_Sketch.jpeg" alt="Table" width="600"/>
 
-# ADD MORE HERE ABOUT THE SKETCH?!?!?!?
+As mentioned in the critique above, the primary focus of this redesign was to help users compare the correctness of answers given between the original and redesigned warning notifications. To aid in this comparison, I chose to use stacked bar charts with the data for the original and the redesign for each question being right next to one another. This showcases the percentages well while keeping the focus on the correct responses. This focus was highlighted through a darker color and adding the exact percentages. To make the questions clearer, I labeled each set of stacked bars with an approximation of the question asked. Finally, I highlighted the redesign data with a darker black and added a title to emphasize the key takeaway. Some aspects from the original that I chose not to include are the actual number of participants as it may be a bit confusing why the same number would result in different percentages, as the two sample sizes were different. I also didn't include the various answer categories, as I felt that it distracted from the main ideas and would clutter the chart unnecessarily. 
+
 
 ## User Tests
 
@@ -99,4 +100,6 @@ Some design changes that may make sense include adding percentages for all categ
 - While they liked the colors, they were immediately overwhelmed and found the numbers really hard to find
 
 
-## Redesign
+## Final Redesign
+
+
