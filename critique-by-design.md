@@ -9,6 +9,8 @@
 
 The following visualization shows the results of the user testing performed by Wu et al. in the following research paper: ["Something isn't secure, but I'm not sure how that translate into a problem": Promoting autonomy by designing for understanding in Signal](https://www.usenix.org/conference/soups2019/presentation/wu). In summary, Wu et al. sought to demonstrate how their redesign of Signal's warning notifications improves user comprehension and empowers them "to make personal trade-offs between perceived risk and response cost." This data visualization is presented to showcase their positive findings.
 
+I chose to critique and redesign this table in particular because, as elaborated upon in the critique, it is a great example of a data visualization that focused on presenting the data rather than engaging the reader and telling an engaging story. 
+
 ## Critique
 
 ### Usefulness
