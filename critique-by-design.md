@@ -104,6 +104,10 @@ Some design changes that may make sense include adding percentages for all categ
 
 ## Final Redesign
 
+For the final redesign, percentages were added to all categories with the focus remaining on the darkest green, correct responses. Additionally, the legend title was changed to 'Response Accuracy' to better reflect the categories and the data. Because this is a digital rendition, tooltips were added that show the number of user responses along with the percentages. However, displaying the original/redesign labels on the left for all bars as well as not highlighting the redesign bars in any way was due to Tableau limitations. 
+
+In the end, while the final redesign did remove some data, it does allow the reader to easily compare the data and to engage with the story being told by the visualization. 
+
 <div class='tableauPlaceholder' id='viz1675661568593' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiquebyDesign&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CritiquebyDesign&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiquebyDesign&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
 var divElement = document.getElementById('viz1675661568593');
@@ -113,7 +117,3 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
-For the final redesign, percentages were added to all categories with the focus remaining on the darkest green, correct responses. Additionally, the legend title was changed to 'Response Accuracy' to better reflect the categories and the data. Because this is a digital rendition, tooltips were added that show the number of user responses along with the percentages. However, displaying the original/redesign labels on the left for all bars as well as not highlighting the redesign bars in any way was due to Tableau limitations. 
-
-In the end, while the final redesign did remove some data, it does allow the reader to easily compare the data and to engage with the story being told by the visualization. 
