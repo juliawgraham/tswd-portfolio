@@ -56,6 +56,9 @@ In conclusion, my primary recommendation for this chart would be to allow for me
 
 ## Sketches
 
+<img src="resources/Redesign_Sketch.jpeg" alt="Table" width="500"/>
+
+# ADD MORE HERE ABOUT THE SKETCH?!?!?!?
 
 ## User Tests
 
@@ -63,9 +66,9 @@ In conclusion, my primary recommendation for this chart would be to allow for me
 --
 
 
-### Notes taken: 
+### Notes taken 
 
-#### User 1:
+#### User 1
 - Green stands out
 - Likes seeing the green get bigger between the two sets of bars
 - Originally things of 'yay, great' when looking at the green and the legend supports that conclusion
@@ -79,7 +82,7 @@ In conclusion, my primary recommendation for this chart would be to allow for me
 - When shown the original table after, their first thought was that it was very confusing and unpleasant to look at
 - Found it very difficult to compare the data and while they wanted to use the sizes of the various rows to help with the comparison, they soon realized that the sizes were variable only because of the number of categories within the section 
 
-#### User 2:
+#### User 2
 - The three bars highlighted in black stand out initially
 - Believed the graph was showing if people understand the warnings' purpose, with green meaning that they get it
 - The authors seem to be suggesting that the redesign is better, or at the very least is more clear to the users
