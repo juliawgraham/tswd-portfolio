@@ -56,7 +56,7 @@ In conclusion, my primary recommendation for this chart would be to allow for me
 
 ## Sketches
 
-<img src="resources/Redesign_Sketch.jpeg" alt="Table" width="500"/>
+<img src="resources/Redesign_Sketch.jpeg" alt="Table" width="600"/>
 
 # ADD MORE HERE ABOUT THE SKETCH?!?!?!?
 
@@ -71,7 +71,7 @@ In conclusion, my primary recommendation for this chart would be to allow for me
 #### User 1
 - Green stands out
 - Likes seeing the green get bigger between the two sets of bars
-- Originally things of 'yay, great' when looking at the green and the legend supports that conclusion
+- Originally thinks of 'yay, great' when looking at the green and the legend supports that conclusion
 - Overall, the visualization is showcasing the redesign's improvement 
 - Find the partially correct (and incorrect) bars harder to compare because they are not aligned like the green is and doesn't include specific percentages that could help out
 - A key takeaway they had from the visualization was that while the user-focused redesign improved a lot, there is still more to improve on
