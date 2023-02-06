@@ -101,6 +101,15 @@ Some design changes that may make sense include adding percentages for all categ
 - When shown the original table after, their first reaction was that it was really bad 
 - While they liked the colors, they were immediately overwhelmed and found the numbers really hard to find
 
+### Users 3, 4, 5, 6 (in class group feedback)
+- One mentioned that while they like the bold outline around the redesign bars, it did take them a while to realize what that outline was for
+- Another mentioned that the point of the visualization, that being that the redesign improved user understanding, took them a while to get as it seemed lost in the data. They suggested maybe changing the title to be more concise and direct, such as 'Redesign improves user understanding of ...'
+- Another mentioned that they were unsure what the authentication ceremony was referring to. While they realized that this would likely be clarified in the paper itself, they suggested either rephrasing the question to add more information, adding a footer with context and perhaps a link to the specific section in the paper, or including this information in a tooltip for the electronic version. 
+- This comment prompted a discussion about labeling the research questions column and making the questions more concise and focused
+- One mentioned that they usually see bar data vertically, not horizontally, but anther added that it does work well horizontally with the research questions  
+- One suggested to gray out the partially correct/incorrect data to draw further attention on the green data, as that is what they assumed was the key takeaway from this visualization
+- When shown the original table after, they all immediately mentioned that it was bad, overwhelming, and 'all text'
+
 
 ## Final Redesign
 
