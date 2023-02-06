@@ -113,7 +113,7 @@ Some design changes that may make sense include adding percentages for all categ
 
 ## Final Redesign
 
-For the final redesign, percentages were added to all categories with the focus remaining on the darkest green, correct responses. Additionally, the legend title was changed to 'Response Accuracy' to better reflect the categories and the data. Because this is a digital rendition, tooltips were added that show the number of user responses along with the percentages. However, displaying the original/redesign labels on the left for all bars as well as not highlighting the redesign bars in any way was due to Tableau limitations. 
+For the final redesign, percentages were added to all categories with the focus remaining on the darkest green, correct responses. Additionally, the legend title was changed to 'Response Accuracy' and the title was changed to 'Redesign Improved Understanding of Signal's Warning Notification' to provide clarity. A caption was also added with a summary of key security terms mentioned. Because this is a digital rendition, tooltips were added that show the number of user responses along with the percentages. However, not displaying the original/redesign labels on the right for only the top bars as well as not highlighting the redesign bars in any way was due to Tableau limitations. 
 
 In the end, while the final redesign did remove some data, it does allow the reader to easily compare the data and to engage with the story being told by the visualization. 
 
