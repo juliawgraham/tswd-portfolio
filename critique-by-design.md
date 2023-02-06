@@ -54,7 +54,7 @@ However, the Good Charts method helped in the transition from general ideas to s
 
 In conclusion, my primary recommendation for this chart would be to allow for meaningful comparisons between data points through the use of, for example, bar charts or scatter plots. Furthermore, the labels could be more descriptive to help readers understand this chart without having to read and understand the entire paper.
 
-## Sketches
+## Sketch of Redesign
 
 <img src="resources/Redesign_Sketch.jpeg" alt="Table" width="600"/>
 
