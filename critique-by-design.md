@@ -62,8 +62,14 @@ In conclusion, my primary recommendation for this chart would be to allow for me
 
 ## User Tests
 
-### Overall User Testing Results
---
+### Results
+The overall feedback for the redesigned data visualization was relatively positive. Both users, either initially or after a few moments of exploration, quickly came to the conclusion that green signified something positive. Moreover, they both realized on their own that one of the key takeaways from this chart is that the redesign performed better. 
+
+However, the two users mentioned different aspects of the visualization that initially confused them. For one user, they found that comparing the data for the partially correct (and incorrect) data was a bit difficult due to lack of alignment and percentages. However, the other user did not pay as much attention to that data since they believed that the percentage of correct answers was most important and the rest of the data was there more to provide some context for the rest of the answers given. What the other user did comment on though was that it took them a while to realize that the gray bars were for the original and the black were for the redesign. This didn't seem to be a problem for the first user, but it was definitely something that took a bit to notice as the colors drew their attention at first. 
+
+One aspect of the user testing to note is that some background context regarding key terms in the paper were given before showing the visualization. While ideally the visualization could speak for itself, it would take a lot of words to adequately explain what 'Signal,' 'authentication ceremony,' 'matching,' and 'non-matching' meant in this context. Although one user did mention wanting some more clarification for the differences between 'matching' and 'non-matching' in particular, this visualization would likely be seen in the context of a research paper and many of these terms are explained in the paper's abstract and conclusion, so users who skim the paper would likely still understand at least the basics. Finally, the key idea that the redesign performed better is still very clear even if the specific security/privacy terms are not known. 
+
+Some design changes that may make sense include adding percentages for all categories but in a lighter color for partially correct/incorrect. This would keep the focus on the green/correct answers while still providing concrete numbers for the other categories if the reader wants it. Also, the label for the legend can be made clearer to emphasize percentages. Finally, the next iteration of this chart could highlight the difference between the original data and the redesign data in a clearer manner. 
 
 
 ### Notes taken 
