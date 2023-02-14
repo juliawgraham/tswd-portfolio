@@ -81,7 +81,7 @@ Most of the data used for this project will come from reports or research papers
 # Method and Medium
 I plan on primarily sketching my initial ideas by hand, both for data visualizations as well as the overall presentation. After sketching, I will primarily use Tableau for data visualization and Shorthand for the presentation. 
 
-Outlined in a general schedule for this project:
+Outlined below is a general schedule for this project:
 - Gather more data sources
 - Sketch more data visualizations based on those data sources
 - Transfer all relevant data into excel spreadsheets
