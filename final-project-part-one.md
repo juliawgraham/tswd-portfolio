@@ -14,7 +14,7 @@ While software testing is often overlooked by many, it is critical to a project'
 - Testing also provides many other benefits to the developers and the project as a whole
 - Call to action: advice and best practices for incorporating testing into the software development lifecycle. 
 
-<img src="resources/Story_Arc.jpeg" alt="Table" width="400"/>
+<img src="resources/Story_Arc.jpeg" width="400"/>
 
 ### Understanding the Audience
 The primary audience for this project are software developers, especially those who do overlook the importance of testing. Other members of the target audience include project managers and other high level managers of software projects. 
@@ -24,6 +24,33 @@ The primary audience for this project are software developers, especially those 
 - As a project manager, I want to understand the importance of testing so I know how much of the project's time I should allocate towards it. 
 
 ## Initial Sketches
+Below are rough sketches of ideas for data visualizations that will support the overall story. These sketches represent only a small subset of the data visualizations that will present in the final presentation. Also, in general, the majority of these data visualization will be relatively simple, as the current data available is often focused on simple surveys and simple, call-out statistics. 
+
+<img src="resources/sketches/Sketch_6.2.jpeg" width="200"/>
+
+<img src="resources/sketches/Sketch_2.jpeg" width= "200"/>
+
+<img src="resources/sketches/Sketch_4.1.jpeg" width="200"/>
+
+<img src="resources/sketches/Sketch_4.2.jpeg" width="200"/>
+
+Above are a few examples of simple data visualizations that call out the current outlook towards software testing and how tests that are written are often ignored. This donut visualization visualizes the percentage of software projects/respondents without cluttering the chart with irrelevant data. 
+
+<img src="resources/sketches/Sketch_7.jpeg" width="300"/>
+
+Above is a stacked bar chart that furthers the lack of importance that is placed on software testing by a significant amount of developers. The stacked bar chart accurately visualizes the percentages while providing more data than simple donut charts. 
+
+<img src="resources/sketches/Sketch_6.1.jpeg" width="300"/>
+
+Above is a slope chart that shows how, although the percentage of developers who have full test automation is relatively small, it is slowly increasing. Data visualizations such as this will provide a transition from negative outlooks towards software testing to a more positive, accepting outlook. 
+
+<img src="resources/sketches/Sketch_8.jpeg" width="300"/>
+
+Above is another stacked bar chart that shows the common causes of failure for software projects, with the highest being software testing. All other categories are included to show the audience that although there are many reasons why projects fail, software testing is one key reason and with robust testing, the chance for project failure will simply decrease. 
+
+<img src="resources/sketches/Sketch_5.jpeg" width="300"/>
+
+Above is a simple dot plot that showcases the significant cost that comes with poor testing practices. However, it also shows how even relatively simple, feasible infrastructure improvements can dramatically decrease this cost. 
 
 
 # The Data
@@ -46,6 +73,8 @@ Most of the data used for this project will come from reports or research papers
 - Also includes anecdotes about developer's feelings towards testing
 7. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6982627
 - Common practices when writing unit tests and the problems that often plague them. 
+8. https://www.sciencedirect.com/science/article/pii/S0950584914000263
+- Perceived causes of software failure, including poor/nonexistent software testing
 
 # Method and Medium
 I plan on primarily sketching my initial ideas by hand, both for data visualizations as well as the overall presentation. After sketching, I will primarily use Tableau for data visualization and Shorthand for the presentation. 
