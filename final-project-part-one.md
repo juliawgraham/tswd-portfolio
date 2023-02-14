@@ -54,28 +54,28 @@ Above is a simple dot plot that showcases the significant cost that comes with p
 # The Data
 Most of the data used for this project will come from reports or research papers. The data collected therefore will usually be by hand from the various data visualizations and tables present in these sources. Since there is no centralized dataset, many sources will be used and more will be added as the project evolves. 
 
-1. https://stevemcconnell.com/articles/upstream-decisions-downstream-costs/ 
+1. <https://stevemcconnell.com/articles/upstream-decisions-downstream-costs/>
 - Contains a chart about the rising costs to correct a defect based on when it is detected and then corrected. 
-2. https://cdn.activestate.com/wp-content/uploads/2019/05/ActiveState-Developer-Survey-2019-Open-Source-Runtime-Pains.pdf?_ga=2.72822227.1964449080.1676299660-1241190181.1676299660
+2. <https://cdn.activestate.com/wp-content/uploads/2019/05/ActiveState-Developer-Survey-2019-Open-Source-Runtime-Pains.pdf?_ga=2.72822227.1964449080.1676299660-1241190181.1676299660>
 - Contains information about how software developers spend their time, including time spent on testing
-3. https://content.microfocus.com/l/reduce-defects-software-tb?utm_source=techbeacon&utm_medium=referral&utm_campaign=7014J000000dVOkQAM&utm_term=keeplearning&utm_content=appdev&_ga=2.67739736.834447451.1676323379-801391211.1676323378
+3. <https://content.microfocus.com/l/reduce-defects-software-tb?utm_source=techbeacon&utm_medium=referral&utm_campaign=7014J000000dVOkQAM&utm_term=keeplearning&utm_content=appdev&_ga=2.67739736.834447451.1676323379-801391211.1676323378>
 - Articles about how continuous integration and quality assurance can help projects
 - This will be a good source for the call to action rather than for the data
-4. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8116886
+4. <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8116886>
 - Provides information about developer's beliefs about testing
 - Findings were that tests were often not done, the tests were not of high quality, they were misguided about the amount of time spent on testing, and more.
-5. https://www.nist.gov/system/files/documents/2021/03/24/econImpactSumm.v23.pdf
+5. <https://www.nist.gov/system/files/documents/2021/03/24/econImpactSumm.v23.pdf>
 - The financial cost of poor testing and how simple practices can dramatically decrease this cost.
-6. https://about.gitlab.com/images/developer-survey/gitlab-devsecops-2021-survey-results.pdf
+6. <https://about.gitlab.com/images/developer-survey/gitlab-devsecops-2021-survey-results.pdf>
 - GitLab survey about improvements to testing and DevOps practices
 - Also includes anecdotes about developer's feelings towards testing
-7. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6982627
+7. <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6982627>
 - Common practices when writing unit tests and the problems that often plague them. 
-8. https://www.sciencedirect.com/science/article/pii/S0950584914000263
+8. <https://www.sciencedirect.com/science/article/pii/S0950584914000263>
 - Perceived causes of software failure, including poor/nonexistent software testing
-9. https://www.content.shi.com/cms-content/accelerator/media/pdfs/micro-focus/micro-focus-121222-world-quality-report-2022-23.pdf
+9. <https://www.content.shi.com/cms-content/accelerator/media/pdfs/micro-focus/micro-focus-121222-world-quality-report-2022-23.pdf>
 - World Quality Report for 2022-2023 that focuses on providing a comprehensive assessment of current quality engineering practices, including software quality engineering
-10. https://www.nist.gov/system/files/documents/director/planning/report02-3.pdf
+10. <https://www.nist.gov/system/files/documents/director/planning/report02-3.pdf>
 - "The Economic Impacts of Inadequate Infrastructure for Software Testing" report
 
 # Method and Medium
