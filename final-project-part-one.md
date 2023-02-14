@@ -24,41 +24,42 @@ The primary audience for this project are software developers, especially those 
 - As a project manager, I want to understand the importance of testing so I know how much of the project's time I should allocate towards it. 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
-
+Most of the data used for this project will come from reports or research papers. The data collected therefore will usually be by hand from the various data visualizations and tables present in these sources. Since there is no centralized dataset, many sources will be used and more will be added as the project evolves. 
 
 1. https://stevemcconnell.com/articles/upstream-decisions-downstream-costs/ 
-- chart about cost to correct given when a defect is detected/corrected
+- Contains a chart about the rising costs to correct a defect based on when it is detected and then corrected. 
 2. https://cdn.activestate.com/wp-content/uploads/2019/05/ActiveState-Developer-Survey-2019-Open-Source-Runtime-Pains.pdf?_ga=2.72822227.1964449080.1676299660-1241190181.1676299660
-- information about how software devs spend their time 
+- Contains information about how software developers spend their time, including time spent on testing
 3. https://content.microfocus.com/l/reduce-defects-software-tb?utm_source=techbeacon&utm_medium=referral&utm_campaign=7014J000000dVOkQAM&utm_term=keeplearning&utm_content=appdev&_ga=2.67739736.834447451.1676323379-801391211.1676323378
-- articles about how CI/QA can help projects
+- Articles about how continuous integration and quality assurance can help projects
+- This will be a good source for the call to action rather than for the data
 4. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8116886
--  developer beliefs about testing -> not often done, not good tests, misguided about amount of time spent, etc.
+- Provides information about developer's beliefs about testing
+- Findings were that tests were often not done, the tests were not of high quality, they were misguided about the amount of time spent on testing, and more.
 5. https://www.nist.gov/system/files/documents/2021/03/24/econImpactSumm.v23.pdf
-- cost of bad testing
+- The financial cost of poor testing and how simple practices can dramatically decrease this cost.
 6. https://about.gitlab.com/images/developer-survey/gitlab-devsecops-2021-survey-results.pdf
-- Gitlab dev survey about improvements to testing/devops practices
+- GitLab survey about improvements to testing and DevOps practices
+- Also includes anecdotes about developer's feelings towards testing
 7. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6982627
-- unit testing practices/problems
+- Common practices when writing unit tests and the problems that often plague them. 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I plan on primarily sketching my initial ideas by hand, both for data visualizations as well as the overall presentation. After sketching, I will primarily use Tableau for data visualization and Shorthand for the presentation. 
 
-Text here...
+Outlined in a general schedule for this project:
+- Gather more data sources
+- Sketch more data visualizations based on those data sources
+- Transfer all relevant data into excel spreadsheets
+- Create digital data visualizations
+- Design general wireframes focusing on the general layout
+- Write a rough draft of the written content supporting the data visualizations 
+- Finalize the story with a storyboard
+- Conduct user research through interviews (multiple rounds)
+- Incorporate user feedback
+- Finalize all aspects of the presentation
+- Present the final story
 
