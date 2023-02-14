@@ -23,10 +23,10 @@ The primary audience for this project are software developers, especially those 
 - As a software developer, I want to know if writing tests for my software is beneficial so I know how much time and resources I should allocate towards it. 
 - As a project manager, I want to understand the importance of testing so I know how much of the project's time I should allocate towards it. 
 
-## Initial sketches
+## Initial Sketches
 
 
-# The data
+# The Data
 Most of the data used for this project will come from reports or research papers. The data collected therefore will usually be by hand from the various data visualizations and tables present in these sources. Since there is no centralized dataset, many sources will be used and more will be added as the project evolves. 
 
 1. https://stevemcconnell.com/articles/upstream-decisions-downstream-costs/ 
@@ -47,7 +47,7 @@ Most of the data used for this project will come from reports or research papers
 7. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6982627
 - Common practices when writing unit tests and the problems that often plague them. 
 
-# Method and medium
+# Method and Medium
 I plan on primarily sketching my initial ideas by hand, both for data visualizations as well as the overall presentation. After sketching, I will primarily use Tableau for data visualization and Shorthand for the presentation. 
 
 Outlined in a general schedule for this project:
