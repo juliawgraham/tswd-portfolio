@@ -3,8 +3,6 @@
 # Importance of Testing in Software Development
 
 ## Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
 While software testing is often overlooked by many, it is critical to a project's success.
 
 ### Project Structure
@@ -75,6 +73,10 @@ Most of the data used for this project will come from reports or research papers
 - Common practices when writing unit tests and the problems that often plague them. 
 8. https://www.sciencedirect.com/science/article/pii/S0950584914000263
 - Perceived causes of software failure, including poor/nonexistent software testing
+9. https://www.content.shi.com/cms-content/accelerator/media/pdfs/micro-focus/micro-focus-121222-world-quality-report-2022-23.pdf
+- World Quality Report for 2022-2023 that focuses on providing a comprehensive assessment of current quality engineering practices, including software quality engineering
+10. https://www.nist.gov/system/files/documents/director/planning/report02-3.pdf
+- "The Economic Impacts of Inadequate Infrastructure for Software Testing" report
 
 # Method and Medium
 I plan on primarily sketching my initial ideas by hand, both for data visualizations as well as the overall presentation. After sketching, I will primarily use Tableau for data visualization and Shorthand for the presentation. 
