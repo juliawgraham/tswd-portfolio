@@ -7,7 +7,7 @@ While software testing is often overlooked by many, it is critical to a project'
 
 ### Project Structure
 - Testing software is often overlooked
-- Furthermore, when code is tested, it is not of high quality or even ignored 
+- Furthermore, when code is tested, it is often not of high quality or even ignored 
 - However, many software projects fail, with one major reason being lack of quality testing
 - Testing also provides many other benefits to the developers and the project as a whole
 - Call to action: advice and best practices for incorporating testing into the software development lifecycle. 
