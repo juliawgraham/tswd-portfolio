@@ -51,8 +51,8 @@ Before officially conducting interviews, I received insightful peer feedback fro
 - Interview 2: neuroscience major with no computer science knowledge
 - Interview 3: Computer science major
 
-| Questions               | Interview 1 | Interview 2 | Interview 3 |
-|-------------------------|-------------|-------------|-------------|
+| Questions | Interview 1 | Interview 2 | Interview 3 |
+|-----------|-------------|-------------|-------------|
 | What was your first impression? |  |  |  |
 | Did that first impression change? |  |  |  |
 | Did you find this topic interesting? Relevant? |  |  |  |
