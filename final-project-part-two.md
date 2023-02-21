@@ -53,23 +53,23 @@ Before officially conducting interviews, I received insightful peer feedback fro
 
 | Questions | Interview 1 | Interview 2 | Interview 3 |
 |-----------|-------------|-------------|-------------|
-| What was your first impression? |  |  |  |
-| Did that first impression change? |  |  |  |
-| Did you find this topic interesting? Relevant? |  |  |  |
+| What was your first impression? | Thought it was an interesting topic as everyone knows about testing but many don't take it entirely seriously |  |  |
+| Did that first impression change? | Not really, but did feel very focused on software engineers and those who lead them |  |  |
+| Did you find this topic interesting? Relevant? | Found the introductory statistics about how exactly testing is overlooked to be very interesting/surprising (called out the first pie chart about half of the projects not having tests), but found the rest that relevant as they don't want to be a software engineer |  |  |
 |  |  |  |  |
-| In general, what was your favorite aspect of this story? |  |  |  |
-| In general, was there anything you would want changed or added? |  |  |  |
+| In general, what was your favorite aspect of this story? | Like how the story was built around the data and especially liked the stories of the major failures |  |  |
+| In general, was there anything you would want changed or added? | Found it strange that most of the text simply reiterated the same statistics as shown in the charts, so it felt very repetitive |  |  |
 |  |  |  |  |
-| What did you think of the aesthetics, including color, font, layout, etc? |  |  |  |
+| What did you think of the aesthetics, including color, font, layout, etc? | Thought it looked very clean, and especially liked the monospace coding font, but did think the gold text within the paragraphs was a link at first |  |  |
 |  |  |  |  |
-| Were there any data visualizations (or aspects of) that you particularly liked? |  |  |  |
-| Were there any data visualizations (or aspects of) you would want changed or removed? |  |  |  |
-| Were there any parts of the story where you wish there was a data visualization but there wasn't? |  |  |  |
+| Were there any data visualizations (or aspects of) that you particularly liked? | Liked the clean aesthetic and particularly liked the 'poor testing practices' chart, as they felt like it nicely provided numbers to the phenomena described in the text |  |  |
+| Were there any data visualizations (or aspects of) you would want changed or removed? | Besides the repetition between the text and the visualizations, they also noted that the same structure (specifically the stacked bar chart) got tiring by the end |  |  |
+| Were there any parts of the story where you wish there was a data visualization but there wasn't? | No |  |  |
 |  |  |  |  |
-| Were there any parts where you wish there was more text/explanation? |  |  |  |
-| Were there any parts where you wish there was less text/explanation? |  |  |  |
+| Were there any parts where you wish there was more text/explanation? | No, and noted that they liked the shorter paragraphs |  |  |
+| Were there any parts where you wish there was less text/explanation? | Besides the repetition, they also found that the next steps section to be an overwhelming amount of text, but assumed that it was designed like that so readers could more easily find the section most relevant to them |  |  |
 |  |  |  |  |
-| Anything else you would like to add? |  |  |  |
+| Anything else you would like to add? | No |  |  |
 
 # Identified Changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
