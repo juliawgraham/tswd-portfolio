@@ -4,8 +4,7 @@
 
 # Wireframes / Storyboards
 Initial draft: [Shorthand](https://carnegiemellon.shorthandstories.com/c7d0a194-21f9-4cf8-a40d-0eb489e14d6c/index.html). 
-
-<script src="https://carnegiemellon.shorthandstories.com/c7d0a194-21f9-4cf8-a40d-0eb489e14d6c/embed.js"></script>
+This draft is also embedded at the end of this writeup. 
 
 My first step when creating this initial draft was to outline the key aspects of the story. When doing this, I found that the data I had was not enough to emphasize why software testing is important. Therefore, I decided to add two stories of major project failures and emphasized how testing could have at the least minimized those failures. I also changed my call to action, based on feedback from part I, to mention ways to incorporate testing in other fields. While the focus of this story is on software testing, this addition to the call to action helps make this story more relevant to other readers. 
 
@@ -45,7 +44,6 @@ Before officially conducting interviews, I received insightful peer feedback fro
 - Make bar charts 'wider', perhaps by making them vertical instead of horizontal, so the data is easier to see (completed before interviews began)
 - Add a legend to make it clearer what each color means (completed before interviews began)
 - Use big text for the statistics in the stories so it stands out more
-
 
 ## Interview Findings
 
@@ -89,6 +87,7 @@ Text here!
 Text here!
 
 
+<script src="https://carnegiemellon.shorthandstories.com/c7d0a194-21f9-4cf8-a40d-0eb489e14d6c/embed.js"></script>
 
 
 
