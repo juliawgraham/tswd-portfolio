@@ -2,22 +2,21 @@
 
 # Importance of Testing in Software Development - Part II
 
-# Wireframes / storyboards
+# Wireframes / Storyboards
 Initial draft: [Shorthand](https://carnegiemellon.shorthandstories.com/c7d0a194-21f9-4cf8-a40d-0eb489e14d6c/index.html). 
 
 My first step when creating this initial draft was to outline the key aspects of the story. When doing this, I found that the data I had was not enough to emphasize why software testing is important. Therefore, I decided to add two stories of major project failures and emphasized how testing could have at the least minimized those failures. I also changed my call to action, based on feedback from part I, to mention ways to incorporate testing in other fields. While the focus of this story is on software testing, this addition to the call to action helps make this story more relevant to other readers. 
 
 Then, after finalizing the story I wanted to tell, I found more data sources and created all of the needed data visualizations in Tableau. All of the data was extracted from the various research papers and reports and inputted by hand into Excel. Finally, I added more text and images to help the story flow from one visualization to another. 
 
-# User research 
+# User Research 
 
-## Target audience
+## Target Audience
 My target audience is primarily those working directly with software, whether they are software engineers or project managers. However, I wanted this story to at least be interesting for non technical individuals. 
 
 For the user tests, I wanted one software engineer, one individual with some coding experience, and someone who has minimal to no technical knowledge. While the software engineer would represent my primary audience, I was also interested in getting feedback on the impact and clarity of the story from a non technical reader. This feedback would be particularly important, as it would provide a vastly different viewpoint from my more technical perspective. Fortunately, I had a few friends who fit in each of these three categories and were willing to participate in a user study.
 
-## Interview script
-
+## Interview Script
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -39,42 +38,36 @@ For the user tests, I wanted one software engineer, one individual with some cod
 |  |  |
 | Give the user an opportunity to mention any final comments | Anything else you would like to add? |
 
+## In Class Peer Review Findings
 
-Text here!
+## Interview Findings
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+- Interview 1: material science and engineering major with a computer science minor
+- Interview 2: neuroscience major with no computer science knowledge
+- Interview 3: Computer science major
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
+|-------------------------|-------------|-------------|-------------|
 | Question you asked here | Insightful feedback            |             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
 
-# Identified changes for Part III
+# Identified Changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
 Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Research synthesis | Anticipated changes for Part III |
+|--------------------|----------------------------------|
+|   |   |
+|   |   |
+|   |   |
 
 > ...include any final thoughts you have here. 
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 
 
