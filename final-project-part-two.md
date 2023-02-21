@@ -24,14 +24,14 @@ For the user tests, I wanted one software engineer, one individual with some cod
 | Did the story impact them in any way? | Did that first impression change? |
 | Did the user get something from this story? Did they feel as though they were a part of the intended audience? | Did you find this topic interesting? Relevant? |
 |  |  |
-| What should I likely not change? | What was your favorite aspect of the story as a whole? |
+| What should I likely not change? | In general, what was your favorite aspect of this story? |
 | What stood out as something to change? | In general, was there anything you would want changed or added? | 
 |  |  |
 | Does the story look good? | What did you think of the aesthetics, including color, font, layout, etc? |
 |  |  |
 | What worked with the visualizations? | Were there any data visualizations (or aspects of) that you particularly liked? |
 | Did the visualizations adequately add to the story? | Were there any data visualizations (or aspects of) you would want changed or removed? |
-| Are there enough visualizations? | Were there any parts of the story where you wish there was a data visualization but wasn't? |
+| Are there enough visualizations? | Were there any parts of the story where you wish there was a data visualization but there wasn't? |
 |  |  |
 | Is anything unclear or confusing? | Were there any parts where you wish there was more text/explanation? | 
 | Is the amount of text overwhelming or unnecessary? | Were there any parts where you wish there was less text/explanation? | 
@@ -53,10 +53,23 @@ Before officially conducting interviews, I received insightful peer feedback fro
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|-------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| What was your first impression? |  |  |  |
+| Did that first impression change? |  |  |  |
+| Did you find this topic interesting? Relevant? |  |  |  |
+|  |  |  |  |
+| In general, what was your favorite aspect of this story? |  |  |  |
+| In general, was there anything you would want changed or added? |  |  |  |
+|  |  |  |  |
+| What did you think of the aesthetics, including color, font, layout, etc? |  |  |  |
+|  |  |  |  |
+| Were there any data visualizations (or aspects of) that you particularly liked? |  |  |  |
+| Were there any data visualizations (or aspects of) you would want changed or removed? |  |  |  |
+| Were there any parts of the story where you wish there was a data visualization but there wasn't? |  |  |  |
+|  |  |  |  |
+| Were there any parts where you wish there was more text/explanation? |  |  |  |
+| Were there any parts where you wish there was less text/explanation? |  |  |  |
+|  |  |  |  |
+| Anything else you would like to add? |  |  |  |
 
 # Identified Changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
@@ -103,13 +116,8 @@ Interview Questions:
 - Any final comments? 
 
 
-In class notes:
 
 
-
-
-User 1
-- 
 
 
 
