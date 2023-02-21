@@ -39,6 +39,11 @@ For the user tests, I wanted one software engineer, one individual with some cod
 | Give the user an opportunity to mention any final comments | Anything else you would like to add? |
 
 ## In Class Peer Review Findings
+Before officially conducting interviews, I received insightful peer feedback from two classmates on an early version of the Shorthand draft. Below are some key insights:
+- Make bar charts 'wider', perhaps by making them vertical instead of horizontal, so the data is easier to see (completed before interviews began)
+- Add a legend to make it clearer what each color means (completed before interviews began)
+- Use big text for the statistics in the stories so it stands out more
+
 
 ## Interview Findings
 
@@ -60,7 +65,7 @@ Text here!
 
 | Research synthesis | Anticipated changes for Part III |
 |--------------------|----------------------------------|
-|   |   |
+| Statistics in the stories did not stand out | Repeat the key statistics in a bigger font |
 |   |   |
 |   |   |
 
@@ -99,12 +104,7 @@ Interview Questions:
 
 
 In class notes:
-- big text for stats in stories
-- make bar charts 'thicker' (maybe vertical instead of horizontal)
-- add legend (or something) to make it clearer what each color means
 
-
-- note: add references to the charts (bottom?)
 
 
 
