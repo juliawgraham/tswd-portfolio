@@ -5,6 +5,8 @@
 # Wireframes / Storyboards
 Initial draft: [Shorthand](https://carnegiemellon.shorthandstories.com/c7d0a194-21f9-4cf8-a40d-0eb489e14d6c/index.html). 
 
+<script src="https://carnegiemellon.shorthandstories.com/c7d0a194-21f9-4cf8-a40d-0eb489e14d6c/embed.js"></script>
+
 My first step when creating this initial draft was to outline the key aspects of the story. When doing this, I found that the data I had was not enough to emphasize why software testing is important. Therefore, I decided to add two stories of major project failures and emphasized how testing could have at the least minimized those failures. I also changed my call to action, based on feedback from part I, to mention ways to incorporate testing in other fields. While the focus of this story is on software testing, this addition to the call to action helps make this story more relevant to other readers. 
 
 Then, after finalizing the story I wanted to tell, I found more data sources and created all of the needed data visualizations in Tableau. All of the data was extracted from the various research papers and reports and inputted by hand into Excel. Finally, I added more text and images to help the story flow from one visualization to another. 
@@ -47,8 +49,8 @@ Before officially conducting interviews, I received insightful peer feedback fro
 
 ## Interview Findings
 
-- Interview 1: material science and engineering major with a computer science minor
-- Interview 2: neuroscience major with no computer science knowledge
+- Interview 1: Material science and engineering major with a computer science minor
+- Interview 2: Neuroscience major with no computer science knowledge
 - Interview 3: Computer science major
 
 | Questions | Interview 1 | Interview 2 | Interview 3 |
