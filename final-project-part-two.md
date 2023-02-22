@@ -53,23 +53,23 @@ Before officially conducting interviews, I received insightful peer feedback fro
 
 | Questions | Interview 1 | Interview 2 | Interview 3 |
 |-----------|-------------|-------------|-------------|
-| What was your first impression? | Thought it was an interesting topic as everyone knows about testing but many don't take it entirely seriously | Sounds like an interesting topic and looks aesthetically pleasing |  |
-| Did that first impression change? | Not really, but did feel very focused on software engineers and those who lead them | Found it very educational and appreciated the focus on an overlooked topic |  |
-| Did you find this topic interesting? Relevant? | Found the introductory statistics about how exactly testing is overlooked to be very interesting/surprising (called out the first pie chart about half of the projects not having tests), but did not find the rest that relevant as they don't want to be a software engineer | Found it interesting since they never really read anything that focused on testing this way, and found it quite relevant given their want to become a software engineer |  |
+| What was your first impression? | Thought it was an interesting topic as everyone knows about testing but many don't take it entirely seriously | Sounds like an interesting topic and looks aesthetically pleasing | Looks put together |
+| Did that first impression change? | Not really, but did feel very focused on software engineers and those who lead them | Found it very educational and appreciated the focus on an overlooked topic | Consistently looked good |
+| Did you find this topic interesting? Relevant? | Found the introductory statistics about how exactly testing is overlooked to be very interesting/surprising (called out the first pie chart about half of the projects not having tests), but did not find the rest that relevant as they don't want to be a software engineer | Found it interesting since they never really read anything that focused on testing this way, and found it quite relevant given their want to become a software engineer | Did not find it that relevant but the colors and short paragraphs did help with engagement |
 |  |  |  |  |
-| In general, what was your favorite aspect of this story? | Like how the story was built around the data and especially liked the stories of the major failures | Like the real world stories and how it clearly showed what can go wrong with bad software |  |
-| In general, was there anything you would want changed or added? | Found it strange that most of the text simply reiterated the same statistics as shown in the charts, so it felt very repetitive | No |  |
+| In general, what was your favorite aspect of this story? | Like how the story was built around the data and especially liked the stories of the major failures | Like the real world stories and how it clearly showed what can go wrong with bad software | Liked the big heading over the pictures as well as the highly interactive charts |
+| In general, was there anything you would want changed or added? | Found it strange that most of the text simply reiterated the same statistics as shown in the charts, so it felt very repetitive | No | Not really, except that sometimes after manipulating the chart a lot, it was difficult to go back to the original layout |
 |  |  |  |  |
-| What did you think of the aesthetics, including color, font, layout, etc? | Thought it looked very clean, and especially liked the monospace coding font, but did think the gold text within the paragraphs was a link at first | Liked the gray and gold combination throughout, and how that added to the minimalism of the visualizations |  |
+| What did you think of the aesthetics, including color, font, layout, etc? | Thought it looked very clean, and especially liked the monospace coding font, but did think the gold text within the paragraphs was a link at first | Liked the gray and gold combination throughout, and how that added to the minimalism of the visualizations | Overall, the formatting helped with engagement, and especially liked how the color carried over to the quotes and highlighted text |
 |  |  |  |  |
-| Were there any data visualizations (or aspects of) that you particularly liked? | Liked the clean aesthetic and particularly liked the 'poor testing practices' chart, as they felt like it nicely provided numbers to the phenomena described in the text | As above, the clean/minimalist color scheme, as well as the descriptive yet concise titles |  |
-| Were there any data visualizations (or aspects of) you would want changed or removed? | Besides the repetition between the text and the visualizations, they also noted that the same structure (specifically the stacked bar chart) got tiring by the end | No |  |
-| Were there any parts of the story where you wish there was a data visualization but there wasn't? | No | No |  |
+| Were there any data visualizations (or aspects of) that you particularly liked? | Liked the clean aesthetic and particularly liked the 'poor testing practices' chart, as they felt like it nicely provided numbers to the phenomena described in the text | As above, the clean/minimalist color scheme, as well as the descriptive yet concise titles | As above, liked the cohesive colors and ability for interactions, but otherwise, the charts are very standard which helped with understanding |
+| Were there any data visualizations (or aspects of) you would want changed or removed? | Besides the repetition between the text and the visualizations, they also noted that the same structure (specifically the stacked bar chart) got tiring by the end | No | Sometimes, the key was too long so everything could not have been read and sometimes it was difficult to go back to a previous state after interacting with the chart a lot |
+| Were there any parts of the story where you wish there was a data visualization but there wasn't? | No | No | No |
 |  |  |  |  |
-| Were there any parts where you wish there was more text/explanation? | No, and noted that they liked the shorter paragraphs | No |  |
-| Were there any parts where you wish there was less text/explanation? | Besides the repetition, they also found that the next steps section to be an overwhelming amount of text, but assumed that it was designed like that so readers could more easily find the section most relevant to them | Perhaps slightly less text but found it overall very interesting to read |  |
+| Were there any parts where you wish there was more text/explanation? | No, and noted that they liked the shorter paragraphs | No | Besides the keys, no |
+| Were there any parts where you wish there was less text/explanation? | Besides the repetition, they also found that the next steps section to be an overwhelming amount of text, but assumed that it was designed like that so readers could more easily find the section most relevant to them | Perhaps slightly less text but found it overall very interesting to read | No, liked the short, separated paragraphs |
 |  |  |  |  |
-| Anything else you would like to add? | No | Liked the high quality, relevant pictures |  |
+| Anything else you would like to add? | No | Liked the high quality, relevant pictures | No |
 
 # Identified Changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
@@ -88,59 +88,3 @@ Text here!
 
 
 <script src="https://carnegiemellon.shorthandstories.com/c7d0a194-21f9-4cf8-a40d-0eb489e14d6c/embed.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-Interview Questions User 3:
-- What was your first impression?
--- 
-
-- Did that first impression change?
--- 
-
-- Did you find this topic interesting? Relevant? 
--- 
-
-
-- What was your favorite aspect of the entire story?
--- 
-- Is there anything you would want changed or added?
--- 
-
-- What did you think about the aesthetics, including the color, font, layout, etc?
--- 
-
-- Were there any data visualizations (or aspects of) that you particularly liked?
--- 
-- Were there any data visualizations (or aspects of) you would want removed or changed?
--- 
-- Were there any parts of the story where you wish there was a data visualization but wasn't?
--- 
-
-- Were there any parts where you wish there was more text/explanation?
--- 
-- Were there any parts where you wish there was less text/explanation? 
--- 
-
-- Any final comments? 
--- 
-
-
-
-
-
-
-
-
-- Assignment 2 notes
--- export data from console (serial monitor) into some text file
--- then plot somehow (python?) - so you can see how the data looks like
--- after some filtering (like in assignment 1), there will be peaks, etc. that will differentiate shapes (look at paper if can find it??)
