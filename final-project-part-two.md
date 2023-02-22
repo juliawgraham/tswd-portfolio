@@ -72,9 +72,6 @@ Before officially conducting interviews, I received insightful peer feedback fro
 | Anything else you would like to add? | No | Liked the high quality, relevant pictures | No |
 
 # Identified Changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis | Anticipated changes for Part III |
 |--------------------|----------------------------------|
