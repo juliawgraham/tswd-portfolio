@@ -48,8 +48,8 @@ Before officially conducting interviews, I received insightful peer feedback fro
 ## Interview Findings
 
 - Interview 1: Material science and engineering major with a computer science minor
-- Interview 2: Neuroscience major with no computer science knowledge
-- Interview 3: Computer science major
+- Interview 2: Computer science major
+- Interview 3: Neuroscience major with no computer science knowledge
 
 | Questions | Interview 1 | Interview 2 | Interview 3 |
 |-----------|-------------|-------------|-------------|
