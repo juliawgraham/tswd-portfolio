@@ -80,6 +80,7 @@ Before officially conducting interviews, I received insightful peer feedback fro
 | A lot of text that was slightly overwhelming | Minimize the amount of text and focus on key information |
 | The text and visualizations felt very repetitive | Remove repetitive data from the text and instead shorten the paragraphs or focus on new information that builds off of the charts |
 | The next steps section was slightly overwhelming | Change the format or lessen the amount of text |
+| Citations are not complete | Create APA style citations |
 
 Overall, the feedback was very helpful and showed me both what was successful and what changes need to be made for part III. 
 
