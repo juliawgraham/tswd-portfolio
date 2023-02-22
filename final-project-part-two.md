@@ -79,12 +79,12 @@ Text here!
 | Research synthesis | Anticipated changes for Part III |
 |--------------------|----------------------------------|
 | Statistics in the stories did not stand out | Repeat the key statistics in a bigger font |
-|   |   |
-|   |   |
+| Non technical users did not find it relevant | Perhaps emphasize the importance of testing and quality assurance in general for all fields earlier in the story (besides the next steps) |
+| A lot of text that was slightly overwhelming | Minimize the amount of text and focus on key information |
+| The text and visualizations felt very repetitive | Remove repetitive data from the text and instead shorten the paragraphs or focus on new information that builds off of the charts |
+| The next steps section was slightly overwhelming | Change the format or lessen the amount of text |
 
-> ...include any final thoughts you have here. 
-
-Text here!
+Overall, the feedback was very helpful and showed me both what was successful and what changes need to be made for part III. 
 
 
 <script src="https://carnegiemellon.shorthandstories.com/c7d0a194-21f9-4cf8-a40d-0eb489e14d6c/embed.js"></script>
