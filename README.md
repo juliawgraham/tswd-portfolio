@@ -4,7 +4,7 @@ Hello! I am Julia, and I am currently majoring in Information Systems with a min
 # What I hope to learn
 - How to elevate a visualization from simply a graph to a full story
 - How to properly leverage a variety of technical tools to create visualizations
-- Although I will focus more on software development/quality/engineering after I graduate, data and visualization that data is still a skill I will likely utilize, whether that is creating my own data-driven stories to present my findings to others or understanding the visualizations of others
+- Although I will focus more on software development/quality/engineering after I graduate, data and visualizing that data is still a skill I will likely utilize, whether that is by creating my own data-driven stories to present my findings to others or by understanding the visualizations of others
 
 # Portfolio
 
