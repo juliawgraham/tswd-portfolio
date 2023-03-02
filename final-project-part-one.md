@@ -51,7 +51,7 @@ Above is another stacked bar chart that shows the common causes of failure for s
 Above is a simple dot plot that showcases the significant cost that comes with poor testing practices. However, it also shows how even relatively simple, feasible infrastructure improvements can dramatically decrease this cost. 
 
 
-# The Data
+## The Data
 Most of the data used for this project will come from reports or research papers. The data collected therefore will usually be by hand from the various data visualizations and tables present in these sources. Since there is no centralized dataset, many sources will be used and more will be added as the project evolves. 
 
 1. <https://stevemcconnell.com/articles/upstream-decisions-downstream-costs/>
@@ -78,7 +78,7 @@ Most of the data used for this project will come from reports or research papers
 10. <https://www.nist.gov/system/files/documents/director/planning/report02-3.pdf>
 - "The Economic Impacts of Inadequate Infrastructure for Software Testing" report
 
-# Method and Medium
+## Method and Medium
 I plan on primarily sketching my initial ideas by hand, both for data visualizations as well as the overall presentation. After sketching, I will primarily use Tableau for data visualization and Shorthand for the presentation. 
 
 Outlined below is a general schedule for this project:

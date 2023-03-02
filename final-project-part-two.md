@@ -2,7 +2,7 @@
 
 # Importance of Testing in Software Development - Part II
 
-# Wireframes / Storyboards
+## Wireframes / Storyboards
 Initial draft: [Shorthand](https://carnegiemellon.shorthandstories.com/c7d0a194-21f9-4cf8-a40d-0eb489e14d6c/index.html). 
 This draft is also embedded at the end of this writeup. 
 
@@ -10,14 +10,14 @@ My first step when creating this initial draft was to outline the key aspects of
 
 Then, after finalizing the story I wanted to tell, I found more data sources and created all of the needed data visualizations in Tableau. All of the data was extracted from the various research papers and reports and inputted by hand into Excel. Finally, I added more text and images to help the story flow from one visualization to another. 
 
-# User Research 
+## User Research 
 
-## Target Audience
+### Target Audience
 My target audience is primarily those working directly with software, whether they are software engineers or project managers. However, I wanted this story to at least be interesting for non technical individuals. 
 
 For the user tests, I wanted one software engineer, one individual with some coding experience, and someone who has minimal to no technical knowledge. While the software engineer would represent my primary audience, I was also interested in getting feedback on the impact and clarity of the story from a non technical reader. This feedback would be particularly important, as it would provide a vastly different viewpoint from my more technical perspective. Fortunately, I had a few friends who fit in each of these three categories and were willing to participate in a user study.
 
-## Interview Script
+### Interview Script
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -45,7 +45,7 @@ Before officially conducting interviews, I received insightful peer feedback fro
 - Add a legend to make it clearer what each color means (completed before interviews began)
 - Use big text for the statistics in the stories so it stands out more
 
-## Interview Findings
+### Interview Findings
 
 - Interview 1: Material science and engineering major with a computer science minor
 - Interview 2: Computer science major
@@ -71,7 +71,7 @@ Before officially conducting interviews, I received insightful peer feedback fro
 |  |  |  |  |
 | Anything else you would like to add? | No | Liked the high quality, relevant pictures | No |
 
-# Identified Changes for Part III
+## Identified Changes for Part III
 
 | Research synthesis | Anticipated changes for Part III |
 |--------------------|----------------------------------|
